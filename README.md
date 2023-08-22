@@ -1,4 +1,5 @@
 # Sistema-simples-C
+![image](https://github.com/Brunitinhaaa/Sistema-simples-C/assets/104976135/e8f13143-40a5-47cb-9f35-766070dd3a87)
 
 <h1>Academia 42 - Sistema de Gerenciamento</h1>
 
